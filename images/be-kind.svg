@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400"><rect width="400" height="400" fill="#fff0f6"/>
+<path d="M200 330 C40 230 60 90 140 90 C180 90 200 130 200 130 C200 130 220 90 260 90 C340 90 360 230 200 330 z" fill="#ff6fa5" stroke="#2d2a4a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="200" y="200" text-anchor="middle" font-family="Comic Sans MS, Patrick Hand, cursive" font-weight="700" font-size="64" fill="#fff" stroke="#2d2a4a" stroke-width="3" transform="rotate(-6 200 200)">Be Kind</text>
+<g fill="#ffd84d" stroke="#2d2a4a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"><path d="M60 60 l8 18 l20 2 l-15 13 l5 20 l-18 -11 l-18 11 l5 -20 l-15 -13 l20 -2 z"/><path d="M330 300 l6 13 l14 1 l-11 9 l4 14 l-13 -8 l-13 8 l4 -14 l-11 -9 l14 -1 z"/></g>
+<circle cx="340" cy="60" r="10" fill="#9b6bff"/><circle cx="60" cy="330" r="10" fill="#3fa7ff"/>
+</svg>
